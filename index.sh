@@ -1,0 +1,1 @@
+python3 create_index.py $1 $2
